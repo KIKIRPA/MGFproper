@@ -7,7 +7,7 @@ W. Fremout, M. Dhaenens, S. Saverwyns, J. Sanyova, P. Vandenabeele, D. Deforce, 
 http://www.sciencedirect.com/science/article/pii/S0003267012004540
 
 
-'''
+```
 MGF proper - MGF cleanup for MS library search approach: select spectra on specific fragments and annotate using Mascot XML data
   Author:       Wim Fremout / Royal Institute for Cultural Heritage, Brussels, Belgium (18 Nov 2011)
   Licence:      GNU GPL version 3.0
@@ -40,4 +40,4 @@ Options:
     --red               annotation requires red (-> highest rank)
     --score=SCORE       annotation requires a minimum score (default: 40)
     --nomascot          no mascot annotation
-'''
+```
